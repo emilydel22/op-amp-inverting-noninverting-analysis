@@ -33,6 +33,16 @@ The analysis focuses on understanding how amplifier configuration affects signal
 ### Configuration Comparison
 [![Comparison](comparison_plot.png)](comparison_plot.png)
 
+
+## Circuit Setup
+
+### Circuit Configuration 1
+[![Circuit 1](Circuit-1.jpg)](Circuit-1.jpg)
+
+### Circuit Configuration 2
+[![Circuit 2](Circuit-2.jpg)](Circuit-2.jpg)
+
+
 ## Files
 - `Assignment5.m` — MATLAB analysis script  
 - `Assignment5.fig` — MATLAB figure file  
